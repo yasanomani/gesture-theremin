@@ -2,6 +2,8 @@
 
 Play a theremin with your bare hands. Your webcam tracks both hands in real time and turns their position into pitch and volume. Runs entirely in the browser.
 
+**Live demo:** https://yasastheremin.netlify.app/
+
 ![Gesture Theremin screenshot](docs/screenshot.png)
 
 ## Demo
