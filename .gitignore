@@ -1,0 +1,14 @@
+.DS_Store
+Icon?
+Icon
+.claude/
+.venv/
+node_modules/
+*.log
+.env
+*.env
+tests/.chrome-profile/
+tests/artifacts/
+__pycache__/
+events.csv
+run_live.log
